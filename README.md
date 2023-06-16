@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning python and ruby<br>💬 Ask me about anything<br>👀 I’m interested in learning programming languages<br>📫 How to reach me natanaelximenes@gmail.com
+🌱 I’m currently working as a Fullstack Developer, using Ruby on Rails, Psql, Js, HTML & CSS<br>💬 Ask me about anything<br>👀 I’m interested in learning programming languages<br>📫 How to reach me natanaelximenes@gmail.com
 
 
 ## 🌐 Socials:
